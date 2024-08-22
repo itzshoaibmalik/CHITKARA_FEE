@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Chitkara University</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #555;
+        }
+        a {
+            color: #aed3b6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }   
+        .contact-info{
+            margin-top:0%;
+            font-size: small;
+            color: #555;
+        }
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: #e0e0e0;
+            text-align: center;
+            border-top: 1px solid #ccc;
+        }
+        footer img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .contact-info {
+            margin-top: 20px;
+            font-size: 16px;
+            color: #333;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to Chitkara University</h1>
+    <p>This is a paragraph in a basic HTML page for Chitkara University. HTML is the standard markup language for creating web pages.</p>
+    <p>Here is an example of a link to <a href="https://www.chitkara.edu.in/">Chitkara University Website</a>.</p>
+
+    <footer>
+
+        <p>Chitkara University Campus</p>
+
+
+      <html></html>
+        <img src="campus_photo.jpg" alt="CU CAMPUS" width="500" height="300" title="Chitkara University Punjab">
+
+        <div class="contact-info">
+
+
+            <p><strong>Contact Us:</strong></p>
+            <p>Address: Chandigarh-Patiala National Highway, Punjab 140401</p>
+            <p>Phone: +91 123-456-7890</p>
+            <p>Email: <a href="mailto:info@chitkara.edu.in">info@chitkara.edu.in</a></p>
+        </div>
+    </footer>
+
+
+</body>
+</html>
